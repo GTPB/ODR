@@ -10,3 +10,6 @@ course, we will explore current good practices by studying examples from the rec
 - Archiving everything
 
 The course will last three days, during which we will practice the various steps hands-on.
+
+Aspirational acronyms...  How about this?
+Seeking to comply with FAIR rules, investing in well built Data Management Plans, leaves the practitioner in need for more guidance in the day-to-day choices that need to be made to walk the path to reproducibility in the data life cycle, considering publication goals while leaving room for sharing and IP protection obn the data itseld.  In this course, we will ...
