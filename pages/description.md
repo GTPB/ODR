@@ -7,3 +7,4 @@ workshop we will explore current good practices by studying examples from the re
 - Making the analytical environment reusable
 - Publishing results
 - Archiving everything
+The workshop will last three days, during which we will practice the various steps hands-on.
